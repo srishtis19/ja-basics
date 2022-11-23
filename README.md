@@ -1,1 +1,1 @@
-# ja-basics
+# js-basics
